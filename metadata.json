@@ -1,0 +1,7 @@
+{
+  "name": "ScannerKiosk - Consulta de Precios",
+  "description": "Una aplicación interactiva para clientes que permite consultar precios y detalles de productos mediante el escaneo de códigos de barras, integrada con Supabase y asistencia inteligente de Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
